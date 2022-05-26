@@ -1,4 +1,4 @@
-class MinifySelector < Formula
+class MinifySelectors < Formula
 	desc "Post-processor to minify class and ID selector names"
 	homepage "https://github.com/adamgian/minify-selectors"
 	url "https://github.com/adamgian/minify-selectors/archive/refs/tags/v0.11.3.tar.gz"
