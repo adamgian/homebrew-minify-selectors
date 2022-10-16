@@ -1,9 +1,9 @@
 class MinifySelectors < Formula
 	desc "Post-processor to minify class and ID selector names"
 	homepage "https://github.com/adamgian/minify-selectors"
-	url "https://github.com/adamgian/minify-selectors/archive/refs/tags/v1.0.0-beta.4.tar.gz"
-	sha256 "704c008cfade1237fc8005cd3316dd85fb7f214770de128b80e7fd8b643a7161"
-	version "1.0.0-beta.4"
+	url "https://github.com/adamgian/minify-selectors/archive/refs/tags/v1.0.0.tar.gz"
+	sha256 "7718577fd7ec82d7b783b0573878a8077f4019a5df542876821d3cfc238a1840"
+	version "1.0.0"
 	depends_on "rust" => :build
 
 	def install
